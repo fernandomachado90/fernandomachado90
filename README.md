@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, world!
 
-<!--
-**fernandomachado90/fernandomachado90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Fernando Machado**. I was born in 1990 and I currently live in [São José dos Campos](https://goo.gl/maps/CqN2bSJMgxhejLE58), São Paulo, Brasil.
 
-Here are some ideas to get you started:
+I've been working as a **full stack software developer** for around a decade.
+I'm very fluent in **agile development** practices
+and love to learn new and fun ways of applying technology
+to create products that **solve real problems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe that authentic **communication**,
+interdisciplinary **collaboration**, autonomy to seek excellency
+and **continuous experimenting, learning and improving** are the keys
+to the success of a team, a project or an entire company.
+
+Feel free to access my [portfolio](https://fernadomachado90.github.io/) or check out some public projects below.
