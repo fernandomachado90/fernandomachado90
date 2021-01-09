@@ -12,4 +12,4 @@ interdisciplinary **collaboration**, autonomy to seek excellency
 and **continuous experimenting, learning and improving** are the keys
 to the success of a team, a project or an entire company.
 
-Read more on my [portfolio](https://fernandomachado90.github.io/) and feel free to check some of my public projects below.
+Read more on my [portfolio](https://fernandomachado90.github.io/) and check out my public projects below.
